@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="MobileSuitSkirmish" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <dataIndexEntries>
-    <dataIndexEntry filePath="MobileSuitSkirmishTest.gstz" dataType="gamesystem" dataId="0MobileSuitSkirmishGS" dataName="MobileSuitSkirmishTest" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="CustomMobileSuits.catz" dataType="catalogue" dataId="06c1-73cd-1df3-d316" dataName="CustomMobileSuits" dataBattleScribeVersion="2.03" dataRevision="5"/>
-  </dataIndexEntries>
-</dataIndex>
